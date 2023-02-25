@@ -1,5 +1,5 @@
 # oldgoogle
 
-[Link] (trite-bucket.surge.sh)
+[Link](trite-bucket.surge.sh)
 
 

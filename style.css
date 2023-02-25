@@ -1,0 +1,136 @@
+* {
+    box-sizing: border-box;
+  }
+
+
+
+.resim {
+    display: flex;
+    justify-content: center;
+
+
+
+}
+
+.arkaplan {
+    background-color: bisque;
+    text-align: center;
+    
+
+    
+
+
+}
+
+
+.arkaplan p {
+    margin: 0px auto;
+
+}
+
+.arama {
+
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2px;
+
+}
+
+
+
+.footer {
+    font-size: small;
+    text-align: center;
+}
+
+.arkadas {
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+
+.container {
+
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 70%;
+    
+
+}
+
+
+
+
+
+.kenar {
+    
+    width: 90%;
+    margin: 0 auto;
+
+
+
+    /* width: 90%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%); */
+
+
+}
+
+
+.arkadas input{
+    width:20%;
+}
+
+
+
+
+
+.deneme {
+    background-color: aqua;
+
+}
+
+.containerUnderHead { 
+    display: flex;
+    flex-direction: column;
+    text-align: center; 
+
+}
+
+
+
+.containerUnderHeadMid {
+
+
+    border-right : 2px solid white;
+    border-left : 2px solid white;
+    text-align: center;
+    flex-direction: column;
+    display: flex;
+    padding: 3px 70px;
+    
+    
+
+    
+
+
+}
+
+
+.containerUnderHead p {
+
+margin: 0px auto ;
+
+}
+
+
+
+
+
+

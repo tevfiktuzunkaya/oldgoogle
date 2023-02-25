@@ -12,6 +12,22 @@
 
 }
 
+
+.secondButton:focus {
+
+
+    background-color:white;
+    
+}
+
+
+.firstButton {
+
+background-color:white;
+
+
+}
+
 .arkaplan {
     background-color: bisque;
     text-align: center;
